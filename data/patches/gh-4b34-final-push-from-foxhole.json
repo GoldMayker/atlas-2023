@@ -1,0 +1,39 @@
+{
+	"id": 3126,
+	"name": "Final push from foxhole",
+	"description": "The foxhole discord made one final push to get the f in foxhole on the canvass",
+	"links": {
+		"subreddit": [
+			"foxholegame"
+		],
+		"discord": [
+			"cwZUHs8pae"
+		]
+	},
+	"path": {
+		"250-258": [
+			[
+				-140,
+				-26
+			],
+			[
+				-133,
+				-26
+			],
+			[
+				-133,
+				-15
+			],
+			[
+				-140,
+				-15
+			]
+		]
+	},
+	"center": {
+		"250-258": [
+			-136,
+			-20
+		]
+	}
+}
